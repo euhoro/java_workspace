@@ -35,9 +35,9 @@ public class Main {
       result = mergeVals(arr1, result);
     }
   }
-  public static void print(int [] ar){
-    for(int i=0;i<ar.length;i++){
-      System.out.println(ar[i]);
+  public static void print(int [] arr){
+    for(int i=0;i<arr.length;i++){
+      System.out.println(arr[i]);
     }
   }
   public static void main(String[] args) {
