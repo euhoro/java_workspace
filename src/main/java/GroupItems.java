@@ -1,5 +1,5 @@
 public class GroupItems {
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         // Test arrays
         int[] array1 = {1, 2, 3, 1, 4, 1};
         int[] array2 = {5, 3, 9, 8, 5, 7, 5};
